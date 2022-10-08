@@ -1,8 +1,4 @@
 def MySignature():
-    print()
-    print("________________________")
-    print("the program was implemented by Dmitry Pyanzin")
-    print("________________________")
-    print()
+    print("\n________________________\nthe program was implemented by Dmitry Pyanzin\n________________________\n")
 
 MySignature()
